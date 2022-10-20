@@ -12,3 +12,5 @@ There are 2 classes on this application,
 ### Technologies & Dependencies
 * Java 17
 * Maven
+
+[Java_Maaş Hesaplayıcı_FirstCase Catalog.pdf](https://github.com/GozdeSaygiliYalcin/salary-calculator/files/9832486/Java_Maas.Hesaplayici_FirstCase.Catalog.pdf)
