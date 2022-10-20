@@ -9,9 +9,9 @@ public class EmployeeManagement {
 		employee1.printPayroll();
 		Employee employee2 = new Employee("efdal yalcin", 9000, 65, 2021);
 		employee2.printPayroll();
-		Employee employee3 = new Employee("boncuk yalcin", 1000, 25, 2021);
+		Employee employee3 = new Employee("boncuk yalcin", 1000, 25, 2009);
 		employee3.printPayroll();
-		Employee employee4 = new Employee("sutlac yalcin", 5500, 35, 2021);
+		Employee employee4 = new Employee("sutlac yalcin", 5500, 35, 2005);
 		employee4.printPayroll();
 	}
 
